@@ -14,8 +14,6 @@ A Collection of Notes, Methodologies, POCs, Tools and everything else related to
 
 :point\_right: A Bug Bounty Program is a deal offered by several Oragnizations & Individuals by which  recognition and compensation is provided to individuals for reporting Bugs. 
 
-<b> You can Fork this Repo, I'm continuously adding the content! </b>
-
 ## Contents
 :point\_right: The repo is organized in following manner. You can read the notes: 
 1. [Reconnaissance - Phase 1](https://github.com/IamLucif3r/Bug-Hunting/blob/main/Notes/Reconnaissance-%20Phase1.md)
@@ -94,11 +92,4 @@ Following are some of the top Bug-Hunting Platforms. You can make your account a
 - [Intigriti](https://www.intigriti.com/)
 - Responsible Disclosures [(Use Google Dorks To Find Programs)](https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt)
 
-<b>Note: This Repo is under development, Only Notes have been added till now. Separate Section for Tools, POCs and Tricks will be created soon</b>
-### ➡️ Contributions
-You are Welcome to Contribute. You can contribute by:
-- Translating into other languages
-- Adding more Methodologies, Tools, and other Resources.
-- Just adding a star to our Github project :) 
-
- :point\_right: If you have some new idea about this Repository, issue, feedback or found some valuable tool
+<b>Note: This Repo is under development</b>
