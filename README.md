@@ -5,9 +5,9 @@ A Collection of Notes, Methodologies, POCs, Tools and everything else related to
 </div>
 
 <br>
-<a href=https://twitter.com/IamLucif3r_>
+<a href=https://x.com/th30n30fmany>
 	
-![](https://img.shields.io/twitter/follow/IamLucif3r_?style=social) </a>    <a href=https://github.com/IamLucif3r> ![](https://img.shields.io/github/followers/IamLucif3r?label=Follow%20Me&style=social) </a>
+![](https://img.shields.io/twitter/follow/IamLucif3r_?style=social) </a>    <a href=https://github.com/Th3Flunky> ![](https://img.shields.io/github/followers/IamLucif3r?label=Follow%20Me&style=social) </a>
 ![](https://img.shields.io/badge/Contribuitions-Welcome-brightgreen)
 
 
