@@ -1,4 +1,4 @@
- ![](Notes/assets/adadmin.png)
+ ![](Notes/assets/hackermanmeme.jpeg)
 <div align = "center"> <h1> Bug Hunting   </h1>	
 A Collection of Notes, Methodologies, POCs, Tools and everything else related to Bug Hunting.
 
