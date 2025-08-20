@@ -1,6 +1,6 @@
  ![](Notes/assets/adadmin.png)
 <div align = "center"> <h1> Bug Hunting   </h1>	
-A Collection of Notes, Methodologies, POCs, Tools and everything else related to Bug Hunting.  :v:
+A Collection of Notes, Methodologies, POCs, Tools and everything else related to Bug Hunting.
 
 </div>
 
@@ -8,7 +8,7 @@ A Collection of Notes, Methodologies, POCs, Tools and everything else related to
 
 <hr>
 
-:point\_right: A Bug Bounty Program is a deal offered by several Oragnizations & Individuals by which  recognition and compensation is provided to individuals for reporting Bugs. 
+A Bug Bounty Program is a deal offered by several Oragnizations & Individuals by which  recognition and compensation is provided to individuals for reporting Bugs. 
 
 
 ## Bug-Hunting Platforms 
