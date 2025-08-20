@@ -5,10 +5,6 @@ A Collection of Notes, Methodologies, POCs, Tools and everything else related to
 </div>
 
 <br>
-<a href=https://x.com/th30n30fmany>
-	
-
-
 
 <hr>
 
